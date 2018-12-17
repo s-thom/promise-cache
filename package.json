@@ -1,5 +1,5 @@
 {
-  "name": "promise-cache",
+  "name": "@sthom/promise-cache",
   "version": "1.0.0",
   "description": "A cache for Promises",
   "main": "index.js",
