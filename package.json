@@ -1,0 +1,29 @@
+{
+  "name": "promise-cache",
+  "version": "1.0.0",
+  "description": "A cache for Promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-thom/promise-cache.git"
+  },
+  "keywords": [
+    "promise",
+    "cache"
+  ],
+  "author": "Stuart Thomson <stu.thom.96@gmail.com> (https://sthom.kiwi/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/s-thom/promise-cache/issues"
+  },
+  "homepage": "https://github.com/s-thom/promise-cache#readme",
+  "devDependencies": {
+    "@sthom/linter-config": "^1.4.0",
+    "eslint": "^5.10.0",
+    "eslint-plugin-import": "^2.14.0",
+    "markdownlint": "^0.11.0"
+  }
+}
